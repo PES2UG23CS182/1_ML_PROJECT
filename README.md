@@ -1,5 +1,5 @@
 Project Title:
-Traffic Prediction with Multiple Models and Ensembles
+Traffic Flow Prediction with Machine Learning
 
 Team: <br>
 Diya Chandrashekhar (PES2UG23CS182)<br>
