@@ -39,10 +39,10 @@ Input junction, month, day, and hour to see predictions from all individual mode
 3. View Outputs<br>
 
 Key Features:<br>
--End-to-end pipeline: Data loading, preprocessing, training, visualization, and prediction are fully automated.
--Multiple model support (NN, DT, RF, KNN, SNN) and stacking/weighted ensemble integration.
--Early stopping and best-model selection.
--User-friendly Gradio interface for predictions.
+-End-to-end pipeline: Data loading, preprocessing, training, visualization, and prediction are fully automated.<br>
+-Multiple model support (NN, DT, RF, KNN, SNN) and stacking/weighted ensemble integration.<br>
+-Early stopping and best-model selection.<br>
+-User-friendly Gradio interface for predictions.<br>
 
 Contact:<br>
 For questions, open an issue or email: [eshwarra5@gmail.com] | [diyac.1005@gmail.com]
